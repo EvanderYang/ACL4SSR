@@ -1,2 +1,2 @@
-DOMAIN,*.mgcenter.com
-DOMAIN,*.mg.cn
+DOMAIN-SUFFIX,*.mgcenter.com
+DOMAIN-SUFFIX,*.mg.cn

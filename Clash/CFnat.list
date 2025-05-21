@@ -72,3 +72,6 @@ PROCESS-NAME,colo-windows-amd64.exe
 PROCESS-NAME,colo-windows-arm.exe
 PROCESS-NAME,colo-windows-arm64.exe
 PROCESS-NAME,subs-check.exe
+DOMAIN-SUFFIX,mgcenter.com
+DOMAIN-SUFFIX,mg.cn
+
